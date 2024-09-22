@@ -27,7 +27,7 @@ const Slider = () => {
           </button>
         </div>
         <svg class="animate-bounce w-6 h-6">
-        <FaAngleDoubleDown />
+        <FaAngleDoubleDown className='cursor-pointer'/>
         </svg>
     </div>
   );
